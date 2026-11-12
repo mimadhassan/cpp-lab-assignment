@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    int marks = 95;
+    int marks = 100;
 
     cout << "Student Marks: " << marks;
 
